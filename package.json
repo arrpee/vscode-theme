@@ -1,6 +1,11 @@
 {
     "name": "arrpee-theme",
     "displayName": "Arrpee Theme",
+	"publisher": "arrpee",
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/arrpee/vscode-theme"
+	},
     "description": "",
     "version": "0.0.1",
     "engines": {
