@@ -7,7 +7,7 @@
     "url": "https://github.com/arrpee/vscode-theme"
   },
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.67.0"
   },
@@ -24,7 +24,7 @@
     ]
   },
   "scripts": {
-    "deploy": "vsce publish --yarn"
+    "deploy": "vsce publish"
   },
   "devDependencies": {
     "vsce": "^2.8.0"
