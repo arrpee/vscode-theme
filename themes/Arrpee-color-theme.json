@@ -88,7 +88,7 @@
     "editorError.foreground": "#ff4b82",
 
     "errorForeground": "#ff4b8266",
-    "diffEditor.removedTextBackground": "#ff4b8233",
+    "diffEditor.removedTextBackground": "#ff4b8222",
 
     "editorGutter.modifiedBackground": "#ffcc95",
     "editorOverviewRuler.modifiedForeground": "#ffcc95",
@@ -99,7 +99,7 @@
     "editorGutter.addedBackground": "#19f9d899",
     "statusBar.debuggingBackground": "#19f9d899",
 
-    "diffEditor.insertedTextBackground": "#19f9d833",
+    "diffEditor.insertedTextBackground": "#19f9d822",
 
     "list.highlightForeground": "#6fc1ff",
     "editorOverviewRuler.infoForeground": "#6fc1ff",
