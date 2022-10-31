@@ -558,7 +558,7 @@
       "name": "JSON String",
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#e06c75"
       }
     },
     {
